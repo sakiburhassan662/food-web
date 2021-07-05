@@ -84,13 +84,23 @@ h1 span {
 }
 .singlepost {
      box-shadow: 7px 5px 40px gray;
-     height: 660px;
+     height: 710px;
      border-radius: 40px;
 }
 .singlepost h3{
         font-size: 27px;
 }
-section #postWrapper {
-    height: 500px;
-    padding-bottom: 150px;
+#postWrapper {
+    height: 722px;
+}
+footer {
+    text-align: center;
+    height: 154px;
+    background-color: black;
+}
+footer h1{
+    color:white;
+}
+footer p{
+    color: gray;
 }
